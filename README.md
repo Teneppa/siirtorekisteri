@@ -8,7 +8,7 @@ Asennusohje Arduino IDE:lle
 
 1. Lataa siirtorekisterikirjasto
 2. Pura .zip tiedosto
-3. Siirrä siirtorekisteri -niminen kansio (EI siirtorekisteri-master) omaan kirjastokansioosi (Arduino -> Libraries)
+3. Siirrä siirtorekisteri -niminen kansio omaan kirjastokansioosi (Arduino -> Libraries)
 4. Avaa Arduino IDE (jos oli jo auki, käynnistä se uudelleen)
 5. Avaa esimerkki: Tiedosto -> Esimerkit -> siirtorekisteri -> siirtorekisteri_demo
 
